@@ -1,6 +1,8 @@
 Tests de integración con Zarangotest
 ====================================
 
+_17-08-2012_
+
 ¿Cuántas veces hemos tenido que pelearnos con los ficheros de configuración a la hora de desplegar nuestro proyecto?
 
 Respuesta: un montón. Y la mayoría de ellas, evitables.
@@ -9,7 +11,7 @@ La versión de PHP, las extensiones instaladas, los datos de conexión a la base
 
 Zarangotest (cuyo nombre proviene del [zarangollo](http://es.wikipedia.org/wiki/Zarangollo), delicioso plato tradicional murciano) es un sencillísimo framework que podría haber escrito cualquiera, cuyos objetivos son *organizar los tests (primordialmente los de integración), proporcionar una serie de tests ya escritos y presentar los resultados en una bonita página HTML*.
 
-http://israelviana.es/wp-content/uploads/2012/08/zarangotest.gif
+![Zarangotest](https://raw.githubusercontent.com/isra00/blog/master/img/zarangotest.gif)
 
 ¿Cómo se usa Zarangotest?
 -------------------------
@@ -38,7 +40,7 @@ Por ejemplo:
 
 Como puedes ver, el contenido de los tests consiste en una función anónima que devuelve true o false. Cualquier otro valor devuelto se considerará como un fracaso en la ejecución del test y se mostrará en el informe. Así pues, ejecutamos el script y obtenemos el informe:
 
-http://israelviana.es/wp-content/uploads/2013/08/zarangotest-2.gif
+![Resultados](https://raw.githubusercontent.com/isra00/blog/master/img/zarangotest-2.gif)
 
 ¿Y los tests _pre-fabricados_?
 -------------------------------------
