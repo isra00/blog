@@ -14,7 +14,7 @@ Blog de Israel Viana
  * [Inyectar lógica en los métodos de cualquier clase PHP dinámicamente](/2012-12-14-inyectar-logica-en-los-metodos-de-cualquier-clase-php-dinamicamente.md) (12-14-2012)
  * [El genial e injustamente desconocido Adminer](/2012-10-09-el-genial-e-injustamente-desconocido-adminer.md) (10-09-2012)
  * [Merece la pena](/2012-09-25-merece-la-pena.md) (09-25-2012)
- * [Tests de integración con Zarangotest](/2012-08-17-tests-de-integracion-con-zarangotest.md) (08-17-2012)
+ * [Tests de integración con Zarangotest](/2012-08-17-Tests-de-integracion-con-Zarangotest.md) (08-17-2012)
  * [Todo lo que deberías saber sobre APC (II)](/2012-04-30-todo-lo-que-deberias-saber-sobre-apc-ii.md) (04-30-2012)
  * [Todo lo que deberías saber sobre APC (I)](/2012-04-28-todo-lo-que-deberias-saber-sobre-apc-i.md) (04-28-2012)
  * [Os presento a Kanpress](/2012-03-14-os-presento-a-kanpress.md) (03-14-2012)
