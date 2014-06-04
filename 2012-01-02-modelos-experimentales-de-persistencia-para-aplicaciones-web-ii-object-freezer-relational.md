@@ -36,8 +36,10 @@ Object Freezer-Relational se encarga de gestionar este esquema. De hecho, no es 
 
 ### Vale, ya veo que mola. ¿cómo se usa?
 
-Usar Object Freezer-Relational es tan sencillo como usar Object Freezer indicando los datos de acceso a MySQL:
-<pre class="php">$storage = new Object_Freezer_RelationalStorage(
+Usar Object Freezer-Relational es tan sencillo como usar Object Freezer indicando los datos de acceso a MySQL:7
+
+```php
+$storage = new Object_Freezer_RelationalStorage(
 new Object_Freezer,
 NULL,
 FALSE,
@@ -47,7 +49,9 @@ new MysqlStorage(
 "passw0rd",                     //Contraseña
 "freezer",                      //Base de datos
 3306,                           //Puerto
-MysqlStorage::ENGINE_INNODB));  //Motor MySQL</pre>
+MysqlStorage::ENGINE_INNODB));  //Motor MySQL
+```
+
 A partir de ahí, podemos usar el objeto `$storage` de la misma forma que el Object Freezer original, con CouchDB, ya que es la misma API.
 
 Object Freezer-Relational está disponible en SourceForge. Puedes [descargarlo](https://sourceforge.net/projects/objectfreezer-r/files/) y probarlo, echar un vistazo al [código](https://sourceforge.net/scm/?type=svn&amp;group_id=275421 "Repositorio Subversion de ObjectFreezer-Relational") o leer la [documentación](http://objectfreezer-r.sourceforge.net) si te interesa. Y por supuesto, comentar qué te parece la idea de guardar objetos en una base de datos MySQL :-)
