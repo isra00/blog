@@ -22,4 +22,5 @@ Por estos motivos y muchos otros (baja productividad, falta de tiempo y concentr
 *   He encontrado un buen entorno de programación en PHP sobre Linux (Netbeans, KCacheGrind, etc).
 *   Me he convencido una vez más de que reinventar la rueda es friki, divertido pero inútil y bastante frustrante.
 *   He escuchado cientos de discos mientras hacía todo eso ;-)
+*   
 Bueno ¿y ahora, qué? Ya que el proyecto era para una asignatura de la carrera (aprovecho para decir que, tras pasar al Grado en Informática en la UCAM, he tenido que volver a matricularme de una asignatura que ya tenía aprobada), será sustituido por un motor de almacenamiento en MySQL para Object Freezer. [Object Freezer](http://sebastian-bergmann.de/archives/831-Freezing-and-Thawing-PHP-Objects.html) es una biblioteca escrita por Sebastian Bergmann para almacenar objetos en la base de datos [CouchDB](http://couchdb.apache.org/) sin preocuparse de SQL, DAO y demás inventos del pasado ;-)
