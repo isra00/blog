@@ -1,0 +1,10 @@
+Tareas en GMail, un gran avance
+===============================
+
+_13-12-2008_
+
+![Tareas en GMail](http://2.bp.blogspot.com/_JE4qNpFW6Yk/ST2wpgUkqWI/AAAAAAAAANU/pCCe-uJzpnA/s400/tasks2.jpg)Estos días se comenta el lanzamiento de los gadgets de Calendar y tareas para GMail. Y como buen early adopter, me he lanzado a probarlos con una muy buena impresión. Estos pequeños complementos son un gran avance para la productividad personal, ya que permiten centralizar muchas de las operaciones que bastante gente utiliza como núcleo de su trabajo. Junto con las "superstars" son las dos principales innovaciones de GMail con respecto a otros sistemas de gestión del email, tanto en línea (Hotmail, Yahoo!, etc) como offline (Outlook, Thunderbird...).
+
+Aun recuerdo los comienzos de GMail (ojo, que aún hoy sigue en BETA), cuando nos peleábamos por una invitación para poder disfrutar de los 2GB de almacenamiento y sus suculentos 15MB de adjuntos por cada mensaje. Hoy, esas características nos parecen básicas, pero más novedoso parecen, por ejemplo, las opciones de adjuntos como leer en línea documentos en PDF, escuchar los archivos MP3 que nos envían, descargar en distintos formatos los textos recibidos, o mismamente poder chatear desde nuestro cliente de correo electrónico.
+
+Personalmente, soy (mejor dicho, era) usuario de [GMail Agenda](http://userscripts.org/scripts/show/24877), un script para [Greasemonkey](http://es.wikipedia.org/wiki/Greasemonkey) que permite integrar Google Calendar en GMail, así como el propio para Remember The Milk, el más famoso gestor de tareas de la web. Ambas extensiones ya están eliminadas de mi Firefox en favor de los gadgets de GMail. Indudablemente se plantean otras cuestiones típicamente escépticas, como los peligros del monopolio de Google o la privacidad al utilizar un servicio más de Google. Seré franco: aunque no me gusta alabar a Google, con GMail están innovando y para bien. Punto positivo para GMail ;-)

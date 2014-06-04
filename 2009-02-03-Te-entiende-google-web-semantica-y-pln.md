@@ -1,0 +1,20 @@
+¿Te entiende Google? Web semántica y PLN
+========================================
+
+_03-02-2009_
+
+A Google no le interesa entenderme, le basta con dominar el mundo.
+
+Conspiranoias aparte, un buen profesor mío, [Jesús Soto](http://www.jesussoto.es "Jesús Soto"), ha publicado recientemente [un artículo](http://www.ucam.edu/gabcom/ueb4_ene2009.pdf "UCAM en breve - revista universitaria") titulado "¿Te entiende Google?" en la revista universitaria de la [UCAM](http://www.ucam.edu "UCAM"). El artículo en cuestión viene a explicar la necesidad de las tecnologías de procesamiento del lenguaje natural en las búsquedas por Internet. Ejemplifica el problema con las herramientas de traducción automáticas Google y Babelfish y el motor de búsqueda de Google, en los que se obtienen resultados inesperados al traducir "mosca" del español al inglés y viceversa (la traducción de mosca, "fly", significa también volar), y también al buscar "mosca" (páginas sobre el insecto, la pesca con mosca, etc).
+
+Los dos problemas que plantea son muy diferentes, aunque tienen en común la necesidad del PLN (procesamiento del lenguaje natural). No voy a discutir esta necesidad, ni tampoco los importantes avances que la investigación está logrando. De lo que voy a hablar es sobre web semántica (cómo no).
+
+Señor Soto: de poco vale el maravilloso PLN en un buscador si no hay web semántica. Es muy sencilo: si entre nosotros y el contenido que buscamos está el buscador, debe haber un "protocolo" de comunicación entre nosotros y el buscador (PLN), pero también entre el buscador y el contenido. Dicho de otra manera, con el PLN el buscador entenderá qué es lo que queremos buscar, pero sin web semántica no podrá entender qué es lo que hay en la web. O al menos en el ideal escenario de ese futurista mundo de los agentes inteligentes que nos buscan el vuelo más barato o [realizan investigaciones científicas](http://www.elpais.com/articulo/ultima/robot/formula/hipotesis/elpepiult/20040115elpepiult_1/Tes/ "realizan investigaciones científicas").
+
+Y digo poco porque efectivamente, sí hay lugar para el PLN en las búsquedas sin web semántica. Un pequeño lugar en el que el PLN es utilizado para "entender" el contenido de una web no semántica, una comprensión que se complementa con estadísticas de uso (cuántas más veces se haga click en tal enlace al buscar tal palabra, más cercano semánticamente se considera de los términos buscados) y algoritmos como PageRank. Efectivamente, ese pequeño lugar se llama Google, el buscador que el 96% de los españoles usan.
+
+Podemos considerar esta cuestión como las dos caras de una misma moneda: si la web está escrita en lenguaje natural, y los buscadores son máquinas, o bien hacemos que los buscadores entiendan el lenguaje natural (pero no de cara al usuario, sino de cara al contenido) o que la web se adapte al lenguaje de las máquinas. Los esfuerzos de la investigación actual sobre la web semántica se centran en la realización y despliegue de tecnologías que permitan adaptar el contenido de la web actual a lenguajes formales, procesables por máquinas.
+
+Uno pueda pensar que es mejor hacer que las máquinas comprendan el lenguaje, antes que adaptar los billones de páginas web a esta nueva tecnología. Efectivamente, las tecnologías de PLN tienen una importante función en la web semántica, sin ir más lejos adaptar parcial o totalmente los sitios web actuales a la web semántica. O, de cara al usuario, permitir búsquedas (y no sólo búsquedas, lo que suena más futurista es la idea de agente inteligente) más refinadas. Pero las apariencias engañan: cuando hemos visto a los ordenadores hacer cosas geniales es cuando hemos entendido que la máquina trabaja con una representación parcial del universo en su propio lenguaje. Por ejemplo, la programación.
+
+Limitar la _web inteligente_ al PLN significaría "construir sobre arena", ya que tendríamos que estar remodelando los algoritmos continuamente, y las aplicaciones de usuario final avanzarían de forma mucho más lenta.

@@ -1,0 +1,16 @@
+Construyendo la web social semántica
+====================================
+
+_24-12-2008_
+
+[![](/wp-content/uploads/image-legacy/sioc.jpg)](http://sioc-project.org/files/1_a_sioc_executive_summary.pdf)
+
+A través de un [interesante post de Furilo](http://www.furilo.com/archivos/el-open-stack-para-la-web-social/), acabo de conocer la existencia de [DiSo](http://diso-project.org/), un proyecto que pretende crear y promover tecnologías y estándares abiertos para la creación de una web social descentralizada. Para ello, han empezado con los [microformatos](http://microformats.org) y los estándares de autenticación [OpenID](http://openid.net/) y [OAuth](http://oauth.net/), desarrollando sendos plug-ins para Wordpress. Aprovecho para adelantar que estoy preparando una guía para aplicar tecnologías de la web semántica (entre ellas, microformatos y OpenID) a un blog.
+
+Al conocer la existencia del proyecto, y dado el carácter del post de Furilo, no he podido evitar una especie de "escepticismo 2.0", ya que este proyecto pretende construir comunidades descentralizadas con las tecnologías actuales, y creo sinceramente que no tiene futuro. Por una parte, ya existen ontologías como [SIOC](http://sioc-project.org/) (Semantically Interlinked Online Communities) que posibilitan (o lo intentan) la compartición de datos sobre personas a partir de distintas fuentes. Pero por otra parte, la Web Semántica parece tan lejana, y SIOC tan poco tangible para las masas, que parece necesario que alguien ponga orden a la caótica web social, demasiado obcecada con los RSS, sus lifestreaming, sus Google Friend Connect y sus _gurús 2.0_ aunque desde sea "su propio bando".
+
+Pero, repito, creo que eso no tiene futuro. Seguramente me equivoque, pero cuando digo futuro no quiero decir que no vaya a tener éxito, ni siquiera que no vaya a servir para hacer avanzar la web semántica y la descentralización de servicios. Cuando digo que no tiene futuro me refiero a que las tecnologías están abocadas a ser sustituidas por las tecnologías de la Web Semántica, y no porque este blog hable sobre web semántica, sino porque los microformatos son un invento temporal (acabarán dejando paso a [RDFa](http://www.w3.org/TR/xhtml-rdfa-primer/)). Y sobre todo, porque la web social no está aislada de "otras webs". Si sólo trabajamos para la web social, crearemos un subconjunto quizá bien formado de servicios sociales, pero muy endogámico y ligado a servicios concretos, que es lo contrario a lo que se pretende inicialmente:
+
+> We?re building Wordpress plugins [...]
+
+¿Y cuando desaparezca Wordpress, qué? Cuando (Sir) Tim Berners-Lee empezó con el rollo de la Web Semántica, no dijo "vamos a hacer estándares para taxonomías" o "vamos a hacer estándares para gestión documental". La Web Semántica provee tecnologías para la web social, para el comercio electrónico y la administración on-line, para los fondos documentales y prácticamente cualquier otro uso que se le quiera dar a la web. Si queremos una web social semántica, por favor, que sea semántica, no sólo "interlinked".

@@ -1,0 +1,20 @@
+Los abusos de Tuenti
+====================
+
+_21-05-2009_
+
+![Tuenti](http://photos-e.ak.fbcdn.net/photos-ak-snc1/v4641/57/121/1008733449/n1008733449_30207996_6170601.jpg)
+
+¿Alguno de los presentes tiene tuenti? O mejor dicho ¿alguien no tiene tuenti? Si es así, seguro que algún amigo le ha sugerido que se dé de alta en la red social, para poder ver sus fotos, enviarle mensajes... y poco más. Porque después de tres años, Tuenti sigue siendo tan rácano y deficiente como cuando empezó.
+
+Hoy en día nosotros, los universitarios, nuestros hermanos pequeños y alguno de los mayores usamos Tuenti a diario, compartimos nuestras vidas, nuestros mensajes, nuestras fotos y vídeos en una plataforma lenta, insegura y con unas condiciones legales inmorales &mdash;entre otras, una clásula en la que aceptas ceder a Tuenti la propiedad de tus imágenes&mdash;.
+
+Pero existe otro Tuenti, formado por otras personas, un poco mayores que nosotros. Es el Tuenti de los reportajes en la prensa, el de Zaryn Dentzel, presidente &mdash;al que las universidades ya le piden [discursos de graduación](http://www.youtube.com/watch?v=NLEZouEe8ZA) con ese tufillo americano a "podéís conseguir todo lo que os propongáis"&mdash;, el de Enrique Dans y los demás gurús de la web 2.0 (vividores de Internet, más bien), el de los inversores, el del Grupo Prisa &mdash;que [tiene una participación del 17%](http://blogs.periodistadigital.com/24por7.php/2008/09/17/polanco-tuenti-qualitas-equity-partners-4747)&mdash; y el de muchos más. Y es que amigos, cuando el río suena, [agua lleva](http://www.carlosblanco.com/2008/10/07/la-valoracion-de-tuenti-es-de-55-88-millones-de-euros/).
+
+Hace unos meses, Enrique Dans, en su conferencia del ciclo Con-ciencia-t de la universidad, defendía el modelo de negocio de la red social como algo nuevo, benévolo y beneficioso para el usuario: publicidad discreta y ajustada al perfil del usuario (su ubicación, su edad, sus lugares de marcha...), en pequeñas dosis y presentada como parte del contenido era un gran método para que las "hermanitas" de Tuenti pudiesen mantener su servicio. Y todo esto gracias a san Zaryn, que no quería poner banners porque creía que molestaban al usuario.
+
+Hasta aquí, habrá quien se haya creído el cuento. No obstante, este modelo publicitario es más malévolo que los banners, ya que no puedes diferenciar qué es publicidad y qué es contenido. La publicidad intrusiva manipula nuestra atención y nos confunde con eventos que parecen aceptados por nosotros pero que han sido puestos ahí por la marca de perfume o el whishky de turno.
+
+Pero la desfachatez de los emprendedores 2.0 va más allá: los banners que antes el líder Zaryn condenaba, ahora aparecen en forma de [intersticiales](http://www.enriquedans.com/2009/03/intersticiales-volviendo-sobre-el-concepto-de-implicacion.html) automáticos, o lo que es lo mismo, el anuncio de Coca-cola que aparece mientras se carga Tuenti (por cierto, ¿por qué tardará tanto en cargar?). Vaya, parece que los responsables de la red social han cambiado su comuna hippie anti-banners por una sala de reuniones llena de inversores que exigen rentabilidad &mdash;un inversor es un tipo con traje gris que se dedica a comprar almas a cambio de dinero&mdash;. Coca-cola debió pagar mucho por ese anuncio.
+
+Y mientras tanto, nosotros, infelices usuarios, que revisamos cada día (o varias veces al día) nuestro tuenti en busca de mensajes y fotos, creemos que por no haber pagado por el servicio tenemos que aguantar la publicidad abusiva, los términos legales dictatoriales, las deficiencias técnicas y los gravísimos agujeros de seguridad (por ejemplo, todas las fotos subidas están disponibles públicamente, aunque en las preferencias de privacidad hayas elegido que sólo tus contactos puedan verlas). Sirva esto como protesta constructiva, ya que en seguida oiré a quien diga "si no te gusta, no lo uses". Pues no quiero dejar de usarlo, porque el problema no es sólo mío, sino de casi 5 millones de personas que ya están en la base de datos de esta red.

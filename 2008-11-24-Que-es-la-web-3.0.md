@@ -1,0 +1,14 @@
+¿Qué es la web 3.0?
+===================
+
+_24-11-2008_
+
+Antes de afrontar tan filosófica pregunta, plantearé otra análoga: ¿qué es la web 2.0? Aunque estemos más familiarizados con este concepto (hartos de oírlo, en mi caso), es complicado definirlo, y, si bien después de varios años podemos acercarnos a una serie de características bastante evidentes, no ha habido un inventor de la web 2.0 que un día dijese: "he inventado la web 2.0 y es tal y cual". Lo que sí hubo es quien le puso nombre, que no es lo mismo: Dale Dougherty y Craig Cline.
+
+Algo parecido pasa con la web 3.0. Se supone que la web 3.0 será la próxima generación de la web, tras la actual 2.0. Parece de perogrullo, pero yo no tengo claro ni siquiera eso. Considerando los principios de la web 2.0 (socialización de la generación de contenidos, resumiendo muchísimo), no existe una sustitución de versiones entre la 1.0 y la 2.0, sino que se solapan y complementan. Por eso no me gusta el nombre "web 2.0", sino más bien "web social". Las tecnologías de la web 1.0 y la 2.0 son las mismas, **no tiene sentido utilizar la nomenclatura de versiones del software**, en el que hay una clara evolución y diferenciación de los factores que llevan a desarrollar una nueva versión.
+
+Todo esto viene al hilo de que, últimamente estoy oyendo [hablar](http://luismaherrero.wordpress.com/2008/07/23/web-30-helados-y-sincronizados/ "hablar") mucho (más bien leyendo) de la web 3.0, pero sin hablar de la web semántica. Se habla de [navegadores 3D](http://www.muycomputer.com/FrontOffice/ZonaPractica/Especiales/especialDet/_wE9ERk2XxDAs0lES7r6CrN3ZnM9Tooi9CidbrgYuHqVOFcS2ji9mZQJgfLOLIWbM "navegadores 3D"), ubicuidad, personalización, y otros tantos conceptos que pertenecen, bien al plano de las revistas de domingueros aficionados, o bien al plano de la ciencia ficción (también propia de aficionados), o bien ya están implantados (¿acceso desde el móvil? pero si eso ya existe!). Personalmente, hasta ahora tenía claro que el concepto de web 3.0 se refería a la web semántica, pero tampoco me quedan argumentos para esa asociación. No pasa nada. Seguiré utilizando las bonitas etiquetas "web social" y "web semántica".
+
+Para terminar, un interesantísimo vídeo de un antropólogo sobre la web 2.0, la separación de diseño y contenido y la evolución de la web. No aporta cosas nuevas pero como síntesis o para la divulgación está realmente bien:
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/NLlGopyXT_g&hl=es&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NLlGopyXT_g&hl=es&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
