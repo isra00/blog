@@ -25,18 +25,20 @@ Zarangotest, a diferencia de otros frameworks de test, está pensado para usar d
 
 Por ejemplo:
 
-	<?php
+```php
+<?php
 
-	include 'zarangotest.php';
+include 'zarangotest.php';
 
-	$juegoDeTests = array();
+$juegoDeTests = array();
 
-	/** Test Mysqli */
-	$juegoDeTests[] = new Zarangotest("Extensión mysqli", "Extensiones", function() {
-	    return function_exists("mysqli_close");
-	});
+/** Test Mysqli */
+$juegoDeTests[] = new Zarangotest("Extensión mysqli", "Extensiones", function() {
+    return function_exists("mysqli_close");
+});
 
-	zarangotest($juegoDeTests, "MiProyecto");
+zarangotest($juegoDeTests, "MiProyecto");
+```
 
 Como puedes ver, el contenido de los tests consiste en una función anónima que devuelve true o false. Cualquier otro valor devuelto se considerará como un fracaso en la ejecución del test y se mostrará en el informe. Así pues, ejecutamos el script y obtenemos el informe:
 
