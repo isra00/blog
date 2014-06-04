@@ -36,7 +36,7 @@ Object Freezer-Relational se encarga de gestionar este esquema. De hecho, no es 
 
 ### Vale, ya veo que mola. ¿cómo se usa?
 
-Usar Object Freezer-Relational es tan sencillo como usar Object Freezer indicando los datos de acceso a MySQL:7
+Usar Object Freezer-Relational es tan sencillo como usar Object Freezer indicando los datos de acceso a MySQL:
 
 ```php
 $storage = new Object_Freezer_RelationalStorage(
