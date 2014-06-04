@@ -103,4 +103,3 @@ Blog de Israel Viana
  * [10 meses sin usar el email: la web social para aumentar la productividad](/2008-11-16-10-meses-sin-usar-el-email-la-web-social-para-aumentar-la-productividad-4.md) (11-16-2008)
  * [XHTML válido: cómo y por qué](/2008-11-15-xhtml-valido-como-y-por-que-4.md) (11-15-2008)
  * [Hola mundo!](/2008-11-04-hola-mundo-5.md) (11-04-2008)
-
