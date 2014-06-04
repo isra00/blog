@@ -3,7 +3,7 @@ La crisis de la web 2.0
 
 _31-12-2008_
 
-Pensaba escribir un post sobre la crisis de la Web 2.0, pero mis argumentos coinciden en gran medida con los de [un artículo de Manuel Trincado]() en WinRed que te invito a leer.
+Pensaba escribir un post sobre la crisis de la Web 2.0, pero mis argumentos coinciden en gran medida con los de [un artículo de Manuel Trincado](http://winred.com/estrategias/la-crisis-de-la-web-2-0/gmx-niv102-con11087.htm) en WinRed que te invito a leer.
 
 Por una parte, las crisis marcan cambios de ciclo. La crisis de las puntocom terminó un ciclo, y aunque el escenario es diferente, muchas situaciones y errores de la época se están repitiendo. Sobre todo la existencia de una burbuja.
 
