@@ -27,5 +27,3 @@ En resumen:
 *   Pónselo fácil a los usuarios: haz una buena página, bonita y atractiva.
 *   Internacionaliza: seis mil millones de cabezas piensan más que 300 millones de hispanohablantes.
 ¿Algún comentario? ¿Gestionas algún proyecto de software libre? ¡Comparte tu opinión en los comentarios!
-
-<span style="color: #ffffff;">PUFW8V3HXSQF</span>
