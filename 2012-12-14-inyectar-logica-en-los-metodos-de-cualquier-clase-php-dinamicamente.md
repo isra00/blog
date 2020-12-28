@@ -9,7 +9,8 @@ Se trata de inyectar funciones antes y/o después de cualquier método de cualqu
 
 Para ver más claro de qué va todo esto, imaginemos una clase sencilla:
 
-[php]class Coche
+```
+class Coche
 {
 private $posicion = 0;
 
@@ -22,7 +23,8 @@ public function getPosicion()
 {
 return $this-&gt;posicion;
 }
-}[/php]
+}
+```
 
 El método avanzar() aumentará la propiedad $posicion y no hará nada más. No implementa restricciones de máximo, mínimo, etc. En principio, el método está ya escrito y no se puede modificar en tiempo de ejecución.
 
@@ -30,7 +32,8 @@ Pongamos por caso que queremos introducir ciertas restricciones en avanzar(), po
 
 Pues esto es exactamente lo que vamos a hacer con... ¡tachán! [**ClassTriggers**](https://github.com/isra00/class-triggers):
 
-[php]//Instanciamos un ClassTriggers que envuelve nuestro objeto Coche
+```
+//Instanciamos un ClassTriggers que envuelve nuestro objeto Coche
 $cocheInterceptado = new ClassTriggers(new Coche);
 
 //Definimos una acción que se ejecutará antes (preMethod) del método avanzar()
@@ -58,7 +61,8 @@ echo $cocheInterceptado-&gt;getPosicion() . &quot;
 
 $cocheInterceptado-&gt;avanzar(3);
 echo $cocheInterceptado-&gt;getPosicion() . &quot;
-&quot;;[/php]
+&quot;;
+```
 
 Como puedes ver, tenemos una función anónima que recibe el parámetro $arguments. Este array contendrá los parámetros de la llamada a avanzar(), así podemos interceptar el valor que se quiere incrementar a $posicion. Además, como el array se pasa [por referencia](http://php.net/manual/es/functions.arguments.php#functions.arguments.by-reference "Paso de parámetros por referencia en PHP") tenemos la posibilidad de manipular los parámetros de llamada.
 
@@ -80,18 +84,21 @@ Llegados a este punto, el abanico de posibilidades es muy amplio, pero espera, q
 
 Es posible definir más de una acción para un evento (los eventos posibles son preMethod y postMethod) y método, y se irán ejecutando en el mismo orden en que se definieron:
 
-[php]$cocheInterceptado-&gt;bind('avanzar', 'preMethod', function(&amp;$arguments) {
+```
+$cocheInterceptado-&gt;bind('avanzar', 'preMethod', function(&amp;$arguments) {
 echo &quot;Una acción antes de avanzar()
 &quot;;
 });
 $cocheInterceptado-&gt;bind('avanzar', 'preMethod', function(&amp;$arguments) {
 echo &quot;Otra acción
 &quot;;
-});[/php]
+});
+```
 
 Por otra parte, el trigger postMethod se ejecuta después del método real, y las acciones podrán acceder al valor devuelto por el método original, para poder evaluarlo, manipularlo, etc. Siguiendo el ejemplo del coche que no debe avanzar más de 10 posiciones, podemos implementar la restricción después de ejecutar avanzar():
 
-[php]$cocheInterceptado-&gt;bind('avanzar', 'postMethod', function(&amp;$arguments, $output) {
+```
+$cocheInterceptado-&gt;bind('avanzar', 'postMethod', function(&amp;$arguments, $output) {
 if ($this-&gt;posicion &gt; 10)
 {
 $this-&gt;posicion = 10;
@@ -109,7 +116,8 @@ echo $cocheInterceptado-&gt;getPosicion() . &quot;
 &quot;;
 $cocheInterceptado-&gt;avanzar(3);
 echo $cocheInterceptado-&gt;getPosicion() . &quot;
-&quot;;[/php]
+&quot;;
+```
 
 En este ejemplo se llama cuatro veces a avanzar(3), por lo que, después de la primera llamada, $posición valdrá 3, después de la segunda 6, después de la tercera 9, y después de la cuarta 12... en teoría:
 <pre>3
@@ -124,7 +132,8 @@ Ya hemos visto por encima para qué sirve <kbd>ClassTriggers::COND_STOP_EXECUTIO
 
 Otro valor especial que se puede devolver es <kbd>ClassTriggers::NO_MORE_ACTIONS</kbd>. Con esto indicaremos que, después de ejecutar la acción que devuelve este valor, no se ejecutará ninguna acción más para ese trigger y ese método. Por ejemplo:
 
-[php]$cocheInterceptado-&gt;bind('avanzar', 'postMethod', function(&amp;$arguments) {
+```
+$cocheInterceptado-&gt;bind('avanzar', 'postMethod', function(&amp;$arguments) {
 if ($this-&gt;posicion &gt; 10)
 {
 $this-&gt;posicion = 10;
@@ -137,7 +146,8 @@ $this-&gt;posicion = 99;
 });
 
 $cocheInterceptado-&gt;avanzar(11);
-[/php]
+
+```
 
 Si la primera acción no devolviese <kbd>ClassTriggers::NO_MORE_ACTIONS</kbd>, la segunda acción se ejecutaría siempre, y en todos los casos $cocheInterceptado-&gt;posicion valdría 99. Pero devolviendo <kbd>ClassTriggers::NO_MORE_ACTIONS</kbd> se detiene la ejecución de más acciones.
 
